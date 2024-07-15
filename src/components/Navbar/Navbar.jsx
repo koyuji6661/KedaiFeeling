@@ -11,7 +11,7 @@ const Navbar = () => {
                 <a href="#" className='font-bold text-2xl sm:text-3xl flex justify-center gap-2 tracking-wider font-cursive'>
                     <img src={Logo} alt="" className='w-14' />
                 </a>
-                Kedai Feeling 2
+                Kedai Feeling 2 lagi berubah
             </div>
 
             {/* Links Section */}
